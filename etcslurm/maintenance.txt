@@ -1,0 +1,7 @@
+return {
+    -- Maintenance
+    maintenance = {
+    	starttime = \""$starttime"\",
+	    endtime = \""$endtime"\"
+    }
+}
